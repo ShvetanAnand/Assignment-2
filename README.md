@@ -29,7 +29,7 @@ The sign in button is implemented using stack navigation and takes the user to t
 \
 \
 \
-![image](https://user-images.githubusercontent.com/84237347/123542926-cdd8af80-d769-11eb-81de-95573cd683ea.png)
+![image](https://user-images.githubusercontent.com/84237347/123542938-e3e67000-d769-11eb-9882-7f5a08319648.png)
 
 \
 \
