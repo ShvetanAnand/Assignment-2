@@ -17,6 +17,8 @@ The sign in button is implemented using stack navigation and takes the user to t
 ![image](https://user-images.githubusercontent.com/84237347/123542408-1b9fe880-d767-11eb-89a0-f90841febbd2.png)
 ![image](https://user-images.githubusercontent.com/84237347/123542432-48540000-d767-11eb-9360-03f31d5df740.png)
 \
+\
+\
 However for the settings screen we used tab navigation only and it can only be accessed from the bottom tab labelled as settings . The following screenshots shows the settings screen (which is also highlighted in the bottom tab)
 \
 ![image](https://user-images.githubusercontent.com/84237347/123542540-c44e4800-d767-11eb-8127-f1d5ff12fbd7.png)
