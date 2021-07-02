@@ -23,8 +23,11 @@ npm install @react-navigation/stack (To implement stack navigation)
 npm install @react-navigation/bottom-tabs (To implement tab navigation)
 \
 \
-The sign in button is implemented using stack navigation and takes the user to the lobby screen of the app as shown in the following 2 screenshots:
+The sign in button is implemented using stack navigation and takes the user to the lobby screen of the app as shown in the following screenshots.
 \
+However for the settings screen we used tab navigation only and it can only be accessed from the bottom tab labelled as settings . The following screenshots also show the settings screen (which is also highlighted in the bottom tab).
+\
+Apart from the screenshots shown here a video of this assignment is uploaded in :https://www.youtube.com/watch?v=Z1_byqFFyYk
 ![image](https://user-images.githubusercontent.com/84237347/123542408-1b9fe880-d767-11eb-89a0-f90841febbd2.png)
 \
 \
