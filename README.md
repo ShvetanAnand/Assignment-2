@@ -23,7 +23,6 @@ npm install @react-navigation/stack (To implement stack navigation)
 \
 npm install @react-navigation/bottom-tabs (To implement tab navigation)
 \
-\
 
 Apart from the screenshots shown here a video of this assignment is uploaded in :https://www.youtube.com/watch?v=Pt2NKjAR03E
 ![image](https://user-images.githubusercontent.com/84237347/124360860-b9a12080-dc49-11eb-94e5-12f17b853667.png)
