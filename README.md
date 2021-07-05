@@ -1,7 +1,7 @@
 # Assignment-2
 Assignment 2 of Android club
 \
-The objective of this assignment is to implement the playist https://www.youtube.com/playlist?list=PLy9JCsy2u97kphtlKAAMogqZnEt2L0NhD.
+The objective of this assignment is to implement the playlist https://www.youtube.com/playlist?list=PLy9JCsy2u97kphtlKAAMogqZnEt2L0NhD.
 \
 \
 This playlist contains basics of stack and tab navigations which we should perform. 
