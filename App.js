@@ -3,6 +3,7 @@ import { Button, Text, View } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
+import Ionicons from 'react-native-vector-icons/Ionicons';
 
 function FriendsScreen() {
   return (
@@ -113,11 +114,31 @@ export default function App() {
   return (
     <NavigationContainer>
       <Tab.Navigator >
-        <Tab.Screen name="Log in" component={LoginStackScreen} />
-        <Tab.Screen name="Lobby" component={LobbyStackScreen}/>
-        <Tab.Screen name="Camera" component={CameraStackScreen} />
-        <Tab.Screen name="Settings" component={SettingsStackScreen} />
+        <Tab.Screen name="Log in" component={LoginStackScreen}
+         options={{
+            tabBarIcon: ({}) => (
+            <Ionicons name="md-power" color={'deeppink'} size= {20} />
+            ),
+          }} />
+        <Tab.Screen name="Lobby" component={LobbyStackScreen}
+         options={{
+            tabBarIcon: ({}) => (
+            <Ionicons name="ios-people" color={'gold'} size= {20} />
+            ),
+          }}/>
+        <Tab.Screen name="Camera" component={CameraStackScreen}
+         options={{
+            tabBarIcon: ({}) => (
+            <Ionicons name="ios-videocam-outline" color={'black'} size= {20} />
+            ),
+          }} />
+        <Tab.Screen name="Settings" component={SettingsStackScreen}
+         options={{
+            tabBarIcon: ({}) => (
+            <Ionicons name="ios-nuclear" color={'cyan'} size= {20} />
+            ),
+          }} />
       </Tab.Navigator>
     </NavigationContainer>
   );
-} 
+}
