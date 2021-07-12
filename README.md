@@ -22,21 +22,24 @@ npm install react-native-reanimated react-native-gesture-handler react-native-sc
 npm install @react-navigation/stack (To implement stack navigation)
 \
 npm install @react-navigation/bottom-tabs (To implement tab navigation)
+\
+npm install react-native-vector-icons (To implement icons in the bottom tabs)
 
+Apart from the screenshots shown here a video of this assignment is uploaded in :https://www.youtube.com/watch?v=haw4x8d5ByU
+![image](https://user-images.githubusercontent.com/84237347/125284473-1a5de680-e337-11eb-93f0-3800a146e809.png)
+\
+\
+![image](https://user-images.githubusercontent.com/84237347/125284512-25187b80-e337-11eb-94f0-898cf8e74224.png)
+\
+\
+![image](https://user-images.githubusercontent.com/84237347/125284553-33669780-e337-11eb-870b-c89404380c7c.png)
 
-Apart from the screenshots shown here a video of this assignment is uploaded in :https://www.youtube.com/watch?v=Pt2NKjAR03E
-![image](https://user-images.githubusercontent.com/84237347/124360860-b9a12080-dc49-11eb-94e5-12f17b853667.png)
 \
 \
-![image](https://user-images.githubusercontent.com/84237347/124360875-cd4c8700-dc49-11eb-816a-380229210996.png)
+![image](https://user-images.githubusercontent.com/84237347/125284573-3b263c00-e337-11eb-8c3b-154fa308da1b.png)
 \
 \
-![image](https://user-images.githubusercontent.com/84237347/124360889-d9384900-dc49-11eb-9f2c-68006153d27d.png)
-\
-\
-![image](https://user-images.githubusercontent.com/84237347/124360907-f3722700-dc49-11eb-81a2-a7f52aad0d26.png)
-\
-\
-![image](https://user-images.githubusercontent.com/84237347/124360912-fcfb8f00-dc49-11eb-9067-0064cf1f43d0.png)
+![image](https://user-images.githubusercontent.com/84237347/125284600-45483a80-e337-11eb-98d5-84408b2e3ec4.png)
+
 
 
