@@ -26,6 +26,8 @@ npm install @react-navigation/bottom-tabs (To implement tab navigation)
 npm install react-native-vector-icons (To implement icons in the bottom tabs)
 
 Apart from the screenshots shown here a video of this assignment is uploaded in :https://www.youtube.com/watch?v=haw4x8d5ByU
+\
+\
 ![image](https://user-images.githubusercontent.com/84237347/125284473-1a5de680-e337-11eb-93f0-3800a146e809.png)
 \
 \
